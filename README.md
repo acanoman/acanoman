@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Álvaro Cano 👋
 
-<!--
-**acanoman/acanoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Engineer | Offensive Security | Cloud Security (AWS)
 
-Here are some ideas to get you started:
+I am a **Computer Engineer** specializing in Cybersecurity with a strong technical background in **pentesting, vulnerability analysis, and security auditing**. Currently working as a **Senior Cybersecurity Consultant** at Govertis (Telefónica Tech), I bridge the gap between technical execution and strategic compliance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My passion lies in offensive security, where I continuously train in realistic environments (HTB, Dante, OSCP-style labs) to master exploitation, pivoting, and privilege escalation.
+
+
+### 🚀 Certifications & Training
+
+* **eJPTv2** - INE Red Team Certification
+* **CJCA** - Certified Junior Cybersecurity Associate
+* **OSCP** - Offensive Security Certified Professional (*In Progress*) 
+* **Hack The Box** - Elite Red Team Training (Dante) 
